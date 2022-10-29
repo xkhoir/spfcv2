@@ -1,0 +1,119 @@
+1,K1,Kabel Power Terputus,"<ul>
+	<li>Kabel Belum Terpasang Dengan Benar <br></li>
+	<li>Tergigit Tikus <br></li>
+</ul>
+","<ul>
+	<li>Cek Pemasangan Kabel Power Dan Pastikan Pemasangannya Benar <br></li>
+	<li>Penggantian Power Adaptor <br></li>
+	<li>Jauhkan Sekiranya Dari Jangkauan Tikus <br></li>
+</ul>
+"
+2,K2,MainBoard Set Top Box Bermasalah,"<ul>
+	<li>Tegangan Listrik Sering Tidak Stabil<br></li>
+	<li>Terlalu Sering Mati Listrik Secara Tiba-Tiba<br></li>
+	<li>Terdapat Komponen Yang Short Atau Tidak Normal<br></li>
+</ul>
+","<ul>
+	<li>Pastikan Tegangan Normal Dan Nilai Setiap Komponen Sesuai<br></li>
+	<li>Penggantian Komponen Yang Terindikasi Tidak Normal<br></li>
+	<li>Menawarkan Penggantian Set Top Box<br></li>
+</ul>
+"
+3,K3,Power Adaptor Set Top Box Bermasalah,"<ul>
+	<li>Arus Listrik Sering Tidak Stabil<br></li>
+	<li>Usia Adaptor<br></li>
+</ul>
+","<ul>
+	<li>Penggantian Power Adaptor<br></li>
+</ul>
+"
+4,K4,Mode Up / Bootloop,"<ul>
+	<li>Bug Pada Frimware</li>
+	<li>Kegagalan Upgrade Frimware OTA&nbsp;(Over The Air) Maupun Via USB<br></li>
+	<li>Menggunakan Frimware Modifikasi.<br></li>
+</ul>
+","<ul>
+	<li>Flash Ulang Menggunakan Frimware Asli Dan Terbaru Menggunakan Metode USB Flash.<br></li>
+</ul>
+"
+5,K5,Mode On / Mata Merah,"<ul>
+	<li>Kegagalan Upgrade Frimware OTA&nbsp;(Over The Air) Maupun Via USB</li>
+	<li>Terlalu Sering Mati Listrik Secara Tiba-Tiba<br></li>
+	<li>Terdapat Komponen Yang Tidak Dapat Mensuplay Daya Dengan Normal<br></li>
+</ul>
+","<ul>
+	<li>Pastikan Tegangan Normal Dan Nilai Setiap Komponen Sesuai.<br></li>
+	<li>Penggantian Komponen Yang Terindikasi Tidak Normal.</li>
+	<li>Lakukan Direct Flash Ke IC EPROM&nbsp;Menggunakan USB TTL<br></li>
+	<li>Penggantian Set Top Box<br></li>
+</ul>
+"
+6,K6,Remote Control STB Bermasalah,"<ul>
+	<li>Baterai Tidak Terpasang Dengan Benar<br></li>
+	<li>Kapasitas Baterai Habis<br></li>
+	<li>Kesalahan Pemakaian</li>
+</ul>
+","<ul>
+	<li>Pastikan Pemasangan Baterai Tepat<br></li>
+	<li>Penggantian Baterai<br></li>
+	<li>Penggantian Remote Control<br></li>
+</ul>
+"
+7,K7,Kabel HDMI / RCA Bermasalah,"<ul>
+	<li>Plug HDMI/RCA Tidak Terpasang Dengan Benar.<br></li>
+	<li>Salah Memilih Video Input Source Dari Menu Televisi.<br></li>
+	<li>Kabel Putus.<br></li>
+</ul>
+","<ul>
+	<li>Pastikan HDMI/RCA Terpasang Dengan Benar <br></li>
+	<li>Pastikan Televisi Tidak Dalam Mode Mute.<br></li>
+	<li>Pastikan Pilihan Video Input Source Pada Televisi Benar.<br></li>
+	<li>Penggantian Kabel HDMI/RCA.<br></li>
+</ul>
+"
+8,K8,Masa Aktif Habis ,"<ul>
+	<li>Masa Paket Atau Voucher Berbayar Habis<br></li>
+</ul>
+","<ul>
+	<li>Beli Voucher Di Aplikasi Tanaka Voucher<br></li>
+	<li>Restart Receiver<br></li>
+</ul>
+"
+9,K9,Perangkat Antena Bermasalah,"<ul>
+	<li>Antena Tidak Terpasang Dengan Tepat.<br></li>
+	<li>Masalah Di LNB.<br></li>
+	<li>Kabel Antena Tidak Terpasang Dengan Kencang.<br></li>
+</ul>
+","<ul>
+	<li>Luruskan Antena Secara Tepat Dan Periksa Kekuatan Sinyal Pada Menu Auto Scan <br></li>
+	<li>Penggantian Perangkat LNB &nbsp;Yang Sesuai<br></li>
+	<li>Periksa Kabel Antena Dan Kencangkan<br></li>
+	<li>Lakukan Penggantian Kabel Antena Bila Diperlukan<br></li>
+</ul>
+"
+10,K10,Data Channel Kosong,"<ul>
+	<li>Tidak Ada Channel Yang Tersimpan.<br></li>
+	<li>Tidak Mengisi Data Pengaturan Antena.<br></li>
+</ul>
+","<ul>
+	<li>Isi Data Pengaturan Antena Sesuai Data Dari Penyedia Layanan.<br></li>
+	<li>Pilih Menu Auto Scan Atau Manual Scan Dan Lakukan Scan Ulang.<br></li>
+</ul>
+"
+11,K11,Sinyal Lemah,"<ul>
+	<li>Sinyal Yang Ada Terlalu Lemah</li><li>Pemasangan Dudukan Antena Kurang Kencang<br></li>
+	<li>Terdapat Banyak Halangan Di Sekitar Antena<br></li>
+</ul>
+","<ul>
+	<li>Pindahkan Antenna Ke Tempat Yang Terhidar Dari Halangan</li><li>Pastikan Baut Dudukan Antena Sudah Kencang<br></li>
+	<li>Periksa Sinyal Pada Menu Auto Scan Dan Arahkan Antenna Dengan Tepat<br></li>
+</ul>
+"
+12,K12,Data Channel Belum Terupdate,"<ul>
+	<li>Belum Melakukan Update Frimware</li>
+</ul>
+","<ul>
+	<li>Melakukan Refresh Akun Pada Aplikasi Tanaka<br></li>
+	<li>Update Frimware Terbaru<br></li>
+</ul>
+"
