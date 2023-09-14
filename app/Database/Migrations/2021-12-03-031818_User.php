@@ -34,8 +34,10 @@ class User extends Migration
             ],
 
             'is_access' => [
-                'type' => 'TEXT',
-                'default' => 0,
+                'type' => 'VARCHAR',
+                'constraint' => 255, // Sesuaikan dengan ukuran yang Anda inginkan
+                'null' => false,
+                'default' => '0',
             ],
         ]);
 
